@@ -1,0 +1,30 @@
+.hour {
+  border: solid #fff 1px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #fff;
+  font-size: 30px;
+  width: 100%;
+}
+
+.deliverimg {
+  background-color: #e04242;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectedsuccess {
+  border: solid #3fd322 1px;
+  color: #3fd322;
+}
+
+.selecteddanger {
+  border: solid #d32222 1px;
+  color: #d32222;
+}
